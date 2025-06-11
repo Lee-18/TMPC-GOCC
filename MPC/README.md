@@ -1,7 +1,6 @@
 This folder is for the development and evaluation of the TMPC-GOCC strategy (using Shift-5occ-G1-4day as an example). It primarily contains the following:
 
-**Folder Shift5occG14day**: The three MPCs in this case study, namely temperature-based MPC, GOCC-based MPC, and GOCC+TL MPC.   
-This folder also contains three subfolders (Baseline, GOCC, and GOCCTL), corresponding to the aforementioned three MPCs.   
+**Folder Shift5occG14day**: The three MPCs in this case study, namely temperature-based MPC, GOCC-based MPC, and GOCC+TL MPC. This folder also contains three subfolders (Baseline, GOCC, and GOCCTL), corresponding to the aforementioned three MPCs.   
 	The *run.m* file in each subfolder serves as the main program for running the respective MPC.   
  	This folder also includes a testbed subfolder, which contains:   
   		_Folder VB_: Virtual testbed for simulation   
