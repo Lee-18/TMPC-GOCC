@@ -8,5 +8,6 @@ This is the relevant code for Transferable Model Predictive Control-based Group 
 
 **MPC**: TMPC-GOCC development and evaluation  
 
+**ReportAndSlide**: the thesis report and the presentation slides
 
 Each subfolder contains a more detailed README to its contents
